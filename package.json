@@ -1,8 +1,8 @@
 {
-  "name": "aemm-retail-basetemplate",
+  "name": "tutorial",
   "version": "1.0.0",
-  "description": "AEMM Retail application",
-  "author": "Gonzalo Ferreyra <gonzalo.ferreyra@digitaslbi.fr>",
+  "description": "tutorial",
+  "author": "tutorial",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
