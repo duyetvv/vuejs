@@ -1,6 +1,3 @@
-# aemm-retail-basetemplate
-
-> AEMM Retail application
 
 ## Build Setup
 
